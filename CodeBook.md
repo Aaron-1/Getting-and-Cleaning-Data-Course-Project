@@ -1,6 +1,6 @@
-##Code Book for Getting and Cleaning Data Course Project
+## Code Book for Getting and Cleaning Data Course Project
 
-###Variables
+### Variables
 
 Input Variables are described within features_info.txt of the downloaded file.
 
@@ -9,11 +9,11 @@ Set of variables estimated were:
 Mean():Mean Value
 std(): Standard Deviation
 
-###Data input
+### Data input
 
 Data input is described with README.txt of the downloaded file
 
-###Process
+### Process
 
 1.Merge the training and the test sets to create one data set.
 2.Extract the measurements on the mean and standard deviation for each measurement. 
